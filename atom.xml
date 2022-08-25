@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
-    <title>叶子的小站</title>
-    <updated>2022-08-25T07:17:26.668Z</updated>
+    <title>sailor2005的博客</title>
+    <updated>2022-08-25T07:29:31.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
     <subtitle>等风来，不如追风去</subtitle>
     <logo>https://sailor2005.github.io/images/avatar.png</logo>
     <icon>https://sailor2005.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 叶子的小站</rights>
+    <rights>All rights reserved 2022, sailor2005的博客</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://sailor2005.github.io/post/ce-shi/</id>
