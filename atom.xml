@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
-    <title>sailor2005</title>
-    <updated>2022-08-27T02:55:10.533Z</updated>
+    <title>叶子的博客</title>
+    <updated>2022-08-27T02:58:44.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
     <subtitle>聚散离合 我们从未远离</subtitle>
     <logo>https://sailor2005.github.io/images/avatar.png</logo>
     <icon>https://sailor2005.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, sailor2005</rights>
+    <rights>All rights reserved 2022, 叶子的博客</rights>
     <entry>
         <title type="html"><![CDATA[每天玩手机超过6小时，大脑会发生什么可怕变化？]]></title>
         <id>https://sailor2005.github.io/post/mei-tian-wan-shou-ji-chao-guo-6-xiao-shi-da-nao-hui-fa-sheng-shi-me-ke-pa-bian-hua/</id>
