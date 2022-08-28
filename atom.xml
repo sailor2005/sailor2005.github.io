@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
     <title>叶子的博客</title>
-    <updated>2022-08-27T03:11:07.332Z</updated>
+    <updated>2022-08-28T03:06:23.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://sailor2005.github.io/images/avatar.png</logo>
     <icon>https://sailor2005.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 叶子的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[高中 一场三年的梦]]></title>
+        <id>https://sailor2005.github.io/post/F4gCfQIf7/</id>
+        <link href="https://sailor2005.github.io/post/F4gCfQIf7/">
+        </link>
+        <updated>2022-08-28T03:03:21.000Z</updated>
+        <content type="html"><![CDATA[<p>此处 留白</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每天玩手机超过6小时，大脑会发生什么可怕变化？]]></title>
         <id>https://sailor2005.github.io/post/mei-tian-wan-shou-ji-chao-guo-6-xiao-shi-da-nao-hui-fa-sheng-shi-me-ke-pa-bian-hua/</id>
