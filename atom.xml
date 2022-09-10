@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
     <title>叶子的博客</title>
-    <updated>2022-09-10T08:32:24.345Z</updated>
+    <updated>2022-09-10T08:34:28.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
@@ -103,7 +103,7 @@ xinji656）用浪漫的方式带你重新解读这个世界，欢迎关注。</p
         <link href="https://sailor2005.github.io/post/ce-shi/">
         </link>
         <updated>2022-08-25T06:31:40.000Z</updated>
-        <content type="html"><![CDATA[<p>https://www.bilibili.com/video/BV14g411D7DV/?vd_source=80eb746eaff977f2cfb97e65f82b25e6</p>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV14g411D7DV/?vd_source=80eb746eaff977f2cfb97e65f82b25e6">视频链接</a></p>
 ]]></content>
     </entry>
 </feed>
