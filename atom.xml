@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
     <title>叶子的博客</title>
-    <updated>2022-09-10T08:38:48.503Z</updated>
+    <updated>2022-09-10T08:39:50.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
@@ -103,9 +103,7 @@ xinji656）用浪漫的方式带你重新解读这个世界，欢迎关注。</p
         <link href="https://sailor2005.github.io/post/ce-shi/">
         </link>
         <updated>2022-08-25T06:31:40.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1AV4y1E7Je/">UOS系统制作教程</a><br>
-在线观看请点击下方播放按钮</p>
-<iframe src="//player.bilibili.com/player.html?bvid=BV1AV4y1E7Je&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1AV4y1E7Je/">UOS系统制作教程</a></p>
 ]]></content>
     </entry>
 </feed>
