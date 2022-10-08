@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sailor2005.github.io</id>
     <title>叶子的博客</title>
-    <updated>2022-09-10T08:40:29.044Z</updated>
+    <updated>2022-10-08T03:09:31.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sailor2005.github.io"/>
     <link rel="self" href="https://sailor2005.github.io/atom.xml"/>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[每天玩手机超过6小时，大脑会发生什么可怕变化？]]></title>
-        <id>https://sailor2005.github.io/post/mei-tian-wan-shou-ji-chao-guo-6-xiao-shi-da-nao-hui-fa-sheng-shi-me-ke-pa-bian-hua/</id>
-        <link href="https://sailor2005.github.io/post/mei-tian-wan-shou-ji-chao-guo-6-xiao-shi-da-nao-hui-fa-sheng-shi-me-ke-pa-bian-hua/">
+        <id>https://sailor2005.github.io/post/sjdwh001/</id>
+        <link href="https://sailor2005.github.io/post/sjdwh001/">
         </link>
         <updated>2022-08-25T11:12:57.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://sailor2005.github.io/post-images/1661426009752.webp" alt="" loading="lazy"><br>
@@ -54,8 +54,8 @@ xinji656）用浪漫的方式带你重新解读这个世界，欢迎关注。</p
     </entry>
     <entry>
         <title type="html"><![CDATA[“小镇做题家”引爆网络！背后涉及的问题，值得我们深思……]]></title>
-        <id>https://sailor2005.github.io/post/xiao-zhen-zuo-ti-jia-yin-bao-wang-luo-bei-hou-she-ji-de-wen-ti-zhi-de-wo-men-shen-si/</id>
-        <link href="https://sailor2005.github.io/post/xiao-zhen-zuo-ti-jia-yin-bao-wang-luo-bei-hou-she-ji-de-wen-ti-zhi-de-wo-men-shen-si/">
+        <id>https://sailor2005.github.io/post/edu01/</id>
+        <link href="https://sailor2005.github.io/post/edu01/">
         </link>
         <updated>2022-08-25T08:17:57.000Z</updated>
         <content type="html"><![CDATA[<p>最近，因为顶流明星考编事件，“小镇做题家”这个词也被引爆网络。这个词背后所涉及的教育公平、阶层流动、就业难等问题，很值得人们深思。</p>
@@ -99,11 +99,12 @@ xinji656）用浪漫的方式带你重新解读这个世界，欢迎关注。</p
     </entry>
     <entry>
         <title type="html"><![CDATA[一些视频]]></title>
-        <id>https://sailor2005.github.io/post/ce-shi/</id>
-        <link href="https://sailor2005.github.io/post/ce-shi/">
+        <id>https://sailor2005.github.io/post/video01/</id>
+        <link href="https://sailor2005.github.io/post/video01/">
         </link>
         <updated>2022-08-25T06:31:40.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1AV4y1E7Je/">UOS系统制作教程</a></p>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1AV4y1E7Je/">UOS系统制作教程</a><br>
+(<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=477762643&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:477762643:41" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>)</p>
 ]]></content>
     </entry>
 </feed>
